@@ -1,2 +1,2 @@
 #!/bin/bash
-su d -u -n
+su id -u -n
